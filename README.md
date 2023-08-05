@@ -26,6 +26,7 @@ POST /users - Creates a new user with the specified data.
 https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/da970d43-c7c2-4ffe-9541-2852e5e3a4c4
 
 PUT /users/<id> - Updates the user with the specified ID with the new data.
+https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/0d386399-b933-4ae9-bd14-2251c7a1823d
 
 DELETE /users/<id> - Deletes the user with the specified ID.
 
