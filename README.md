@@ -17,14 +17,18 @@ The application should connect to a MongoDB database.
 The application should provide the following REST API endpoints:
 
 GET /users - Returns a list of all users.
+https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/d8c4324b-adfa-468d-ba76-26a12c5a9904
 
 GET /users/<id> - Returns the user with the specified ID.
+https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/6e20df49-82af-4314-8d30-d4bc1d46ed18
 
 POST /users - Creates a new user with the specified data.
+https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/da970d43-c7c2-4ffe-9541-2852e5e3a4c4
 
 PUT /users/<id> - Updates the user with the specified ID with the new data.
 
 DELETE /users/<id> - Deletes the user with the specified ID.
+
 ## Setup
 Create a new Python virtual environment and activate it.
 
