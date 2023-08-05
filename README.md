@@ -29,7 +29,7 @@ PUT /users/<id> - Updates the user with the specified ID with the new data.
 https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/0d386399-b933-4ae9-bd14-2251c7a1823d
 
 DELETE /users/<id> - Deletes the user with the specified ID.
-
+https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/3e843dea-9e0e-4ec9-8396-c3d41f4b13ce
 ## Setup
 Create a new Python virtual environment and activate it.
 
