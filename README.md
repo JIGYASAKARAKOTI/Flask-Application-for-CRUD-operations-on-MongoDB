@@ -48,6 +48,8 @@ Create the necessary routes and functions for the REST API endpoints.
 
 Run the Flask application using the flask run command.
 
+https://github.com/JIGYASAKARAKOTI/Flask-Application-for-CRUD-operations-on-MongoDB/assets/105275283/705672f6-ca25-4954-8933-f912dc686ded
+
 Using Docker is mandatory
 ## Testing
 Open Postman and create a new HTTP request for each of the REST API endpoints.
